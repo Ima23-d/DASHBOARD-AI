@@ -1,0 +1,7 @@
+{
+  "ultimo_mes_base": "2025-12",
+  "proximo_mes": "2026-01",
+  "previsao_taxa_cancelamento": 0.15541302351059305,
+  "limiar_alto_churn_p75": 0.16325181100874553,
+  "classe": "NORMAL"
+}
