@@ -155,7 +155,7 @@ except Exception:
 
 st.divider()
 
-
+st.dataframe(df_f.head(10), use_container_width=True)
 # ============================================================
 # AGGREGATIONS
 # ============================================================
